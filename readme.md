@@ -1,6 +1,6 @@
 # Frontend Mentor - Bento grid solution
 
-This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/bento-grid-RMydElrlOj). 
+This is a solution to the [Bento grid challenge on Frontend Mentor](./assets/Screenshot%20Frontend%20Mentor%20Bento%20grid.png). 
 
 ## Table of contents
 
@@ -22,12 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Testimonial Grid Card ](./assets/Screenshot.png)
+![Testimonial Grid Card ](./assets/Screenshot%20Frontend%20Mentor%20Bento%20grid.png)
 
 ### Links
 
-- Solution URL: [https://github.com/k-hroma/TestimonialsGridSection.git]
-- Live Site URL: [https://k-hroma.github.io/TestimonialsGridSection/]
+- Solution URL: [https://github.com/k-hroma/BentoGridMain.git]
+- Live Site URL: [https://k-hroma.github.io/BentoGridMain/pages/index.html]
 
 ## My process
 
